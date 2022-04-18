@@ -1,0 +1,10 @@
+C:\Users\tpham\source\repos\Adotnet\bin\Debug\Adotnet.exe.config
+C:\Users\tpham\source\repos\Adotnet\bin\Debug\Adotnet.exe
+C:\Users\tpham\source\repos\Adotnet\bin\Debug\Adotnet.pdb
+C:\Users\tpham\source\repos\Adotnet\obj\Debug\Adotnet.csproj.AssemblyReference.cache
+C:\Users\tpham\source\repos\Adotnet\obj\Debug\Adotnet.Properties.Resources.resources
+C:\Users\tpham\source\repos\Adotnet\obj\Debug\Adotnet.csproj.GenerateResource.cache
+C:\Users\tpham\source\repos\Adotnet\obj\Debug\Adotnet.csproj.CoreCompileInputs.cache
+C:\Users\tpham\source\repos\Adotnet\obj\Debug\Adotnet.exe
+C:\Users\tpham\source\repos\Adotnet\obj\Debug\Adotnet.pdb
+C:\Users\tpham\source\repos\Adotnet\obj\Debug\Adotnet.SinhVien.resources
